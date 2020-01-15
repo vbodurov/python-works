@@ -1,7 +1,16 @@
 import pandas as pd
-from matplotlib import pyplot as plt
 
-x = [1, 2, 3]
-y = [1, 4, 9]
-plt.plot(x,y)
-plt.show()
+
+class Base:
+    def __call__(self, something):
+        print(f"Base({something})")
+
+
+class Abc(Base):
+    def __init__(self):
+        print(f"Abc()")
+
+
+abc = Abc()
+
+abc("Ulala")
