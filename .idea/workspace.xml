@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b02f788-b6f1-4375-9569-171b504a02a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py-torch-01/pytorch07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-torch-01/pytorch08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py-torch-01/pytorchgraph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-01/work.py" beforeDir="false" afterPath="$PROJECT_DIR$/test-01/work.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
